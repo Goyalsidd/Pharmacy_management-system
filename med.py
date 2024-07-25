@@ -12,7 +12,7 @@ class Pharmacy:
         self.root.title("Pharmacy Management System")
         self.root.geometry("1350x800+0+0")
         self.root.resizable(False, False)
-        self.root.iconbitmap(r"C:\Users\Lenovo\Desktop\Pharmacy_management-system-master\image\doc.ico")
+        self.root.iconbitmap(r"C:\Users\HP\Desktop\pharmacy\tes.jpg")
 
         ##### ADDMED VARIABLE ######
         self.ref_variable = StringVar()
